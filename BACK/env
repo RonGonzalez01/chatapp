@@ -1,0 +1,5 @@
+PORT=3000
+MONGO_URL=mongodb+srv://user_jvza:mirag3Funo@cluster0.2qkvkx7.mongodb.net/chatappDB
+JWT_SECRET="/x+iDcH5OCu/wNoTaT+Wam49IsX6eqcCl1BXbutgJpk="
+NODE_ENV=development
+CYPHER_KEY=21xdfCh323rLh7DAka/&ld21T33+1!pllyYvF1l12kN
